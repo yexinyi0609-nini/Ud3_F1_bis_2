@@ -31,7 +31,7 @@ public class Ejercicio7 {
                 System.out.println("Domingo");
                 break;
             default:
-                System.out.println("Error.Día Incorrecto");
+                System.out.println("Error.Día Incorrecto.");
                 break;
         }
         scanner.close();

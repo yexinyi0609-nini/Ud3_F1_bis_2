@@ -3,7 +3,7 @@ public class Ejercicio8 {
     public static void main(String[]args){
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Introducir la temperadura en grados: ");
+        System.out.println("Introducir la temperatura en grados: ");
         double temperatura = scanner.nextDouble();
 
         //Datos de tabla
